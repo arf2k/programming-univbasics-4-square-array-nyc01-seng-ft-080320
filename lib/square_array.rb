@@ -1,4 +1,4 @@
 def square_array(array)
   array.length.times do |x|
-    puts 
+    puts array[x**2]
 end 
